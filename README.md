@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Javiana  
+UX/UI |Designe
 
-<!--
-**javianaaltuve3-dot/javianaaltuve3-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## UX/UI Designer  
 
-Here are some ideas to get you started:
+I design clear and user-centered digital experiences.  
+Focused on user flows and digital products.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently working on UX/UI projects and improving my design process.  
+
+---
+
+## ✨ What I Do  
+- UX/UI Design  
+- User Flows  
+- Digital Product Structure  
+- Interface Improvement  
+
+---
+
+## 🚀 Projects  
+- Multibrand platform design (UX/UI)  
+- User flows & Figma prototypes  
+- Interface improvement projects  
+
+---
+
+## 🧠 Skills  
+- UX/UI  
+- Wireframing & Prototyping  
+- User Flows  
+- Design Thinking  
+
+---
+
+## 🛠 Tools  
+- Figma  
+- FigJam  
+- Notion  
+
+---
+
+## 🌍 About Me  
+Based in Lima, Peru  
+Focused on UX/UI and digital experiences  
+Interested in user-centered design and digital products  
+
+---
+
+## 📫 Connect with me  
+- LinkedIn:[ coming soon](https://www.linkedin.com/in/javalt/)
 -->
