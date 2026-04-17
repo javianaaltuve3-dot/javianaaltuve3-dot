@@ -11,7 +11,7 @@ Currently working on UX/UI projects and improving my design process.
 ---
 
 ## ✨ What I Do  
-- UX/UI Design  
+- UX/UI Designr  
 - User Flows  
 - Digital Product Structure  
 - Interface Improvement  
